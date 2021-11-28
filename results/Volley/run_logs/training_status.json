@@ -1,0 +1,24 @@
+{
+    "Volley": {
+        "checkpoints": [
+            {
+                "steps": 33414,
+                "file_path": "results\\Volley\\Volley\\Volley-33414.onnx",
+                "reward": null,
+                "creation_time": 1607404629.4791193
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 33414,
+            "file_path": "results\\Volley\\Volley.onnx",
+            "reward": null,
+            "creation_time": 1607404629.4791193
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}

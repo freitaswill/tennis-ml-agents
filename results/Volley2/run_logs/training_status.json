@@ -1,0 +1,40 @@
+{
+    "BlueVolley": {
+        "checkpoints": [
+            {
+                "steps": 22967,
+                "file_path": "results\\Volley2\\BlueVolley\\BlueVolley-22967.onnx",
+                "reward": null,
+                "creation_time": 1607463037.1627314
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 22967,
+            "file_path": "results\\Volley2\\BlueVolley.onnx",
+            "reward": null,
+            "creation_time": 1607463037.1627314
+        }
+    },
+    "RedVolley": {
+        "checkpoints": [
+            {
+                "steps": 22967,
+                "file_path": "results\\Volley2\\RedVolley\\RedVolley-22967.onnx",
+                "reward": null,
+                "creation_time": 1607463037.2256737
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 22967,
+            "file_path": "results\\Volley2\\RedVolley.onnx",
+            "reward": null,
+            "creation_time": 1607463037.2256737
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}
